@@ -1,123 +1,125 @@
 {
-  "WBUI2": {
-    "settings": {
-      "openbutton": 1,
-      "hideicon": false,
-      "hideiconafter": 10,
-      "iconurl": "https://github.com/AfterHours-Servers/foreverfree/blob/main/AfterHoursPvE.png",
-      "disableicontext": false,
-      "iconposition": 0,
-      "icontextcolor": 0,
-      "openonstart": true,
-      "openonstartonlynewplayers": false,
-      "updateinterval": 1
-    },
-    "tabs": [
-      {
-        "layout": 1,
-        "buttontext": "<TextStyle.LightBlue>Welcome</>",
-        "imageurl": "https://github.com/AfterHours-Servers/foreverfree/blob/main/AfterHoursPvE.png",
-        "content": [
-          {
-            "title": "<TextStyle.LightBlue><b>AfterHours PvE</b></>",
-            "text": "<b>Quick Start</b>\n• Be kind. No griefing/stealing.\n• Build respectfully; don’t block key spawns/paths.\n• Join Discord for support & announcements.\n\n<b>Open the UI</b>\n• Keyboard/Mouse: press F2 for WShop.\n• Controller: Left Thumbstick + Left Shoulder to open UI; F2 on K/M.\n\n<b>Need help?</b> Join Discord: discord.gg/QCSnTXExdq"
-          }
-        ]
-      },
-      {
-        "layout": 4,
-        "buttontext": "<TextStyle.LightBlue>Rules</>",
-        "imageurl": "https://github.com/AfterHours-Servers/foreverfree/blob/main/AfterHoursPvE.png",
-        "content": [
-          {
-            "title": "<b>Conduct</b>",
-            "text": "• Be respectful.\n• No harassment/toxicity.\n• English only in global chat."
-          },
-          {
-            "title": "<b>Building</b>",
-            "text": "• No blocking artifacts/obelisks/mission areas.\n• Keep bases tidy; reduce spam pillars/foundations."
-          },
-          {
-            "title": "<b>Gameplay</b>",
-            "text": "• PvE only; no griefing.\n• Lure griefing and tame stealing are not allowed."
-          },
-          {
-            "title": "<b>Support</b>",
-            "text": "• Use Discord tickets.\n• Report issues with coords/screenshots."
-          }
-        ]
-      },
-      {
-        "layout": 3,
-        "buttontext": "<TextStyle.LightBlue>Rates</>",
-        "imageurl": "https://github.com/AfterHours-Servers/foreverfree/blob/main/AfterHoursPvE.png",
-        "content": [
-          {
-            "title": "<b>Core</b>",
-            "text": "• Boosted PvE x10.\n• XP / Harvest tuned for balance."
-          },
-          {
-            "title": "<b>Taming & Breeding</b>",
-            "text": "• Faster taming.\n• Breeding/maturation accelerated.\n• Imprint intervals adjusted."
-          },
-          {
-            "title": "<b>Notes</b>",
-            "text": "• Full details in Discord.\n• Rates may change for balance."
-          }
-        ]
-      },
-      {
-        "layout": 3,
-        "buttontext": "<TextStyle.LightBlue>Maps</>",
-        "imageurl": "https://github.com/AfterHours-Servers/foreverfree/blob/main/AfterHoursPvE.png",
-        "content": [
-          {
-            "title": "<b>Cluster</b>",
-            "text": "The Island · The Center · Aberration"
-          },
-          {
-            "title": "<b>Expansions</b>",
-            "text": "Scorched Earth · Ragnarok · Extinction"
-          },
-          {
-            "title": "<b>Custom</b>",
-            "text": "Astraeos"
-          }
-        ]
-      },
-      {
-        "layout": 2,
-        "buttontext": "<TextStyle.LightBlue>WShop & Controls</>",
-        "imageurl": "https://github.com/AfterHours-Servers/foreverfree/blob/main/AfterHoursPvE.png",
-        "content": [
-          {
-            "title": "<b>Open WShop</b>",
-            "text": "• Keyboard/Mouse: Press F2 to open the WShop menu.\n• Controller: Left Thumbstick + Left Shoulder to open UI.\n• Tip: Avoid combat while browsing."
-          },
-          {
-            "title": "<b>Status & Events</b>",
-            "text": "• Players online: (to be wired)\n• Server uptime: (to be wired)\n• Next event: (to be wired)\n\nJoin Discord for alerts: discord.gg/QCSnTXExdq"
-          }
-        ]
-      },
-      {
-        "layout": 1,
-        "buttontext": "<TextStyle.LightBlue>Links</>",
-        "imageurl": "https://github.com/AfterHours-Servers/foreverfree/blob/main/AfterHoursPvE.png",
-        "content": [
-          {
-            "title": "<b>Community & Support</b>",
-            "text": "• Discord: discord.gg/QCSnTXExdq\n• Open a ticket in #support when you need help."
-          }
-        ]
-      }
-    ],
-    "links": [
-      {
-        "text": "Discord",
-        "url": "https://discord.gg/QCSnTXExdq"
-      }
-    ],
-    "version": 2
-  }
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 0,
+			"hideicon": false,
+			"hideiconafter": 10,
+			"iconurl": "https://raw.githubusercontent.com/AfterHours-Servers/foreverfree/main/AfterHoursPvE.png",
+			"disableicontext": false,
+			"iconposition": 0,
+			"icontextcolor": 0,
+			"openonstart": true,
+			"openonstartonlynewplayers": false,
+			"updateinterval": 1
+		},
+		"tabs": [
+			{
+				"layout": 1,
+				"buttontext": "Welcome",
+				"imageurl": "https://github.com/AfterHours-Servers/foreverfree/blob/main/AfterHoursPvE.png",
+				"content": [
+					{
+						"title": "AfterHours PvE",
+						"text": "=Quick Start=\r\n• Be kind. No griefing/stealing.\r\n• Build respectfully; don’t block key spawns/paths.\r\n• Join Discord for support & announcements.\r\n\r\n=Open the UI=\r\n• Keyboard/Mouse: press F2 for WShop.\r\n• Controller: Left Thumbstick + Left Shoulder to open UI; F2 on K/M.\r\n\r\n=Need help?=\r\nJoin Discord: discord.gg/QCSnTXExdq"
+					}
+				]
+			},
+			{
+				"layout": 4,
+				"buttontext": "Rules",
+				"imageurl": "https://github.com/AfterHours-Servers/foreverfree/blob/main/AfterHoursPvE.png",
+				"content": [
+					{
+						"title": "Conduct",
+						"text": "• Be respectful.\n• No harassment/toxicity.\n• English only in global chat."
+					},
+					{
+						"title": "Building",
+						"text": "• No blocking artifacts/obelisks/mission areas.\n• Keep bases tidy; reduce spam pillars/foundations."
+					},
+					{
+						"title": "Gameplay",
+						"text": "• PvE only; no griefing.\n• Lure griefing and tame stealing are not allowed."
+					},
+					{
+						"title": "Support",
+						"text": "• Use Discord tickets.\n• Report issues with coords/screenshots."
+					}
+				]
+			},
+			{
+				"layout": 3,
+				"buttontext": "Rates",
+				"imageurl": "https://github.com/AfterHours-Servers/foreverfree/blob/main/AfterHoursPvE.png",
+				"content": [
+					{
+						"title": "Core",
+						"text": "• Boosted PvE x10.\n• XP / Harvest tuned for balance."
+					},
+					{
+						"title": "Taming & Breeding",
+						"text": "• Faster taming.\n• Breeding/maturation accelerated.\n• Imprint intervals adjusted."
+					},
+					{
+						"title": "Notes",
+						"text": "• Full details in Discord.\n• Rates may change for balance."
+					}
+				]
+			},
+			{
+				"layout": 3,
+				"buttontext": "Maps",
+				"imageurl": "https://github.com/AfterHours-Servers/foreverfree/blob/main/AfterHoursPvE.png",
+				"content": [
+					{
+						"title": "Cluster",
+						"text": "The Island · The Center · Aberration"
+					},
+					{
+						"title": "Expansions",
+						"text": "Scorched Earth · Ragnarok · Extinction"
+					},
+					{
+						"title": "Custom",
+						"text": "Astraeos"
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "WShop & Controls",
+				"imageurl": "https://github.com/AfterHours-Servers/foreverfree/blob/main/AfterHoursPvE.png",
+				"content": [
+					{
+						"title": "Open WShop",
+						"text": "• Keyboard/Mouse: Press F2 to open the WShop menu.\n• Controller: Left Thumbstick + Left Shoulder to open UI.\n• Tip: Avoid combat while browsing."
+					},
+					{
+						"title": "Status & Events",
+						"text": "• Players online: (to be wired)\n• Server uptime: (to be wired)\n• Next event: (to be wired)\n\nJoin Discord for alerts: discord.gg/QCSnTXExdq"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Links",
+				"imageurl": "https://github.com/AfterHours-Servers/foreverfree/blob/main/AfterHoursPvE.png",
+				"content": [
+					{
+						"title": "Community & Support",
+						"text": "• Discord: discord.gg/QCSnTXExdq\n• Open a ticket in #support when you need help."
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"text": "Discord",
+				"url": "https://discord.gg/QCSnTXExdq"
+			}
+		],
+		"version": 2
+	}
 }
