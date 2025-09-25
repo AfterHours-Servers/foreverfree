@@ -6,7 +6,7 @@
 			"openbutton": 0,
 			"hideicon": false,
 			"hideiconafter": 10,
-			"iconurl": "https://raw.githubusercontent.com/AfterHours-Servers/foreverfree/main/AfterHoursPvE.png",
+			"iconurl": "https://raw.githubusercontent.com/AfterHours-Servers/foreverfree/1ec08e8d99a58240a70d5c942c33a7e55d39a52e/20250925_0551_T-Rex%20Logo%20Edit_remix_01k5zkah1kf1ebpk7pqf51dbwd.png",
 			"disableicontext": false,
 			"iconposition": 0,
 			"icontextcolor": 0,
@@ -18,7 +18,7 @@
 			{
 				"layout": 1,
 				"buttontext": "Welcome",
-				"imageurl": "https://github.com/AfterHours-Servers/foreverfree/blob/main/AfterHoursPvE.png",
+				"imageurl": "https://raw.githubusercontent.com/AfterHours-Servers/foreverfree/1ec08e8d99a58240a70d5c942c33a7e55d39a52e/20250925_0551_T-Rex%20Logo%20Edit_remix_01k5zkah1kf1ebpk7pqf51dbwd.png",
 				"content": [
 					{
 						"title": "AfterHours PvE",
@@ -29,7 +29,7 @@
 			{
 				"layout": 4,
 				"buttontext": "Rules",
-				"imageurl": "https://github.com/AfterHours-Servers/foreverfree/blob/main/AfterHoursPvE.png",
+				"imageurl": "https://raw.githubusercontent.com/AfterHours-Servers/foreverfree/1ec08e8d99a58240a70d5c942c33a7e55d39a52e/20250925_0551_T-Rex%20Logo%20Edit_remix_01k5zkah1kf1ebpk7pqf51dbwd.png",
 				"content": [
 					{
 						"title": "Conduct",
@@ -52,7 +52,7 @@
 			{
 				"layout": 3,
 				"buttontext": "Rates",
-				"imageurl": "https://github.com/AfterHours-Servers/foreverfree/blob/main/AfterHoursPvE.png",
+				"imageurl": "https://raw.githubusercontent.com/AfterHours-Servers/foreverfree/1ec08e8d99a58240a70d5c942c33a7e55d39a52e/20250925_0551_T-Rex%20Logo%20Edit_remix_01k5zkah1kf1ebpk7pqf51dbwd.png",
 				"content": [
 					{
 						"title": "Core",
@@ -71,7 +71,7 @@
 			{
 				"layout": 3,
 				"buttontext": "Maps",
-				"imageurl": "https://github.com/AfterHours-Servers/foreverfree/blob/main/AfterHoursPvE.png",
+				"imageurl": "https://raw.githubusercontent.com/AfterHours-Servers/foreverfree/1ec08e8d99a58240a70d5c942c33a7e55d39a52e/20250925_0551_T-Rex%20Logo%20Edit_remix_01k5zkah1kf1ebpk7pqf51dbwd.png",
 				"content": [
 					{
 						"title": "Cluster",
@@ -90,7 +90,7 @@
 			{
 				"layout": 2,
 				"buttontext": "WShop & Controls",
-				"imageurl": "https://github.com/AfterHours-Servers/foreverfree/blob/main/AfterHoursPvE.png",
+				"imageurl": "https://raw.githubusercontent.com/AfterHours-Servers/foreverfree/1ec08e8d99a58240a70d5c942c33a7e55d39a52e/20250925_0551_T-Rex%20Logo%20Edit_remix_01k5zkah1kf1ebpk7pqf51dbwd.png",
 				"content": [
 					{
 						"title": "Open WShop",
@@ -105,7 +105,7 @@
 			{
 				"layout": 1,
 				"buttontext": "Links",
-				"imageurl": "https://github.com/AfterHours-Servers/foreverfree/blob/main/AfterHoursPvE.png",
+				"imageurl": "https://raw.githubusercontent.com/AfterHours-Servers/foreverfree/1ec08e8d99a58240a70d5c942c33a7e55d39a52e/20250925_0551_T-Rex%20Logo%20Edit_remix_01k5zkah1kf1ebpk7pqf51dbwd.png",
 				"content": [
 					{
 						"title": "Community & Support",
